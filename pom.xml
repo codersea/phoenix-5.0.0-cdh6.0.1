@@ -97,7 +97,7 @@
         <!-- General Properties -->
         <antlr-input.dir>src/main/antlr3</antlr-input.dir>
         <antlr-output.dir>target/generated-sources/antlr3</antlr-output.dir>
-        <maven.test.skip>true</maven.test.skip>
+        <!--<maven.test.skip>true</maven.test.skip>-->
         <test.output.tofile>true</test.output.tofile>
         <top.dir>${project.basedir}</top.dir>
         
